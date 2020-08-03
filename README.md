@@ -57,7 +57,7 @@
 #### Week 9 ####
 - Performance Programming in C++:
 	- Optimize Histogram Filter
-- [Optional project 4: Optimize Histogram Filter](ongoing)
+- Optional project 4: Optimize Histogram Filter (ongoing)
 - Navigating Data Structures:
     - How to Solve Problems
 
